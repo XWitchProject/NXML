@@ -1,8 +1,8 @@
 # NXML
 
-NXML is a handwritten two-way parser and scripted transformation engine for XML^\*, written in C#. It allows you to read and write XML^\* files. The XML.Script subproject provides a runtime and an API for Lua scripts to transform any XML^\* files in a fairly straightforward manner.
+NXML is a handwritten two-way parser and scripted transformation engine for XML\*, written in C#. It allows you to read and write XML\* files. The XML.Script subproject provides a runtime and an API for Lua scripts to transform any XML\* files in a fairly straightforward manner.
 
-## ^\*Not Actually XML
+## \*Not Actually XML
 
 NXML was created specifically for Noita. Noita makes use of a custom parser that pretends to be an XML parser but actually violates about half of the standard, causing endless headaches to people who want to create external tools. It's mere existence is a violation of the XML specification, as it's a highly lenient parser - it feels more like a weird mix of HTML and XHTML. Even the files the actual game uses reflect this pretty well - full of typos, mistakes and other trash.
 
