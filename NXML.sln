@@ -1,0 +1,44 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXML", "NXML\NXML.csproj", "{B40E41D1-4C26-4104-8A00-EE7802EB43E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXML.Script", "NXML.Script\NXML.Script.csproj", "{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40E41D1-4C26-4104-8A00-EE7802EB43E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40E41D1-4C26-4104-8A00-EE7802EB43E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40E41D1-4C26-4104-8A00-EE7802EB43E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40E41D1-4C26-4104-8A00-EE7802EB43E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchSection = False
+		$2.NewLinesForBracesInTypes = False
+		$2.NewLinesForBracesInMethods = False
+		$2.NewLinesForBracesInProperties = False
+		$2.NewLinesForBracesInAccessors = False
+		$2.NewLinesForBracesInAnonymousMethods = False
+		$2.NewLinesForBracesInControlBlocks = False
+		$2.NewLinesForBracesInAnonymousTypes = False
+		$2.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$2.NewLinesForBracesInLambdaExpressionBody = False
+		$2.NewLineForElse = False
+		$2.NewLineForCatch = False
+		$2.NewLineForFinally = False
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
