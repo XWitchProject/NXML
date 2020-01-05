@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXML", "NXML\NXML.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXML.Script", "NXML.Script\NXML.Script.csproj", "{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTRuntime", "NXML.Script\libs\XTRuntime\XTRuntime\XTRuntime.csproj", "{1B353B11-9108-4A90-8895-3E1CD2AA4339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2AAAB3C-01FD-48CD-AE1C-2E61552D3F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B353B11-9108-4A90-8895-3E1CD2AA4339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B353B11-9108-4A90-8895-3E1CD2AA4339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B353B11-9108-4A90-8895-3E1CD2AA4339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B353B11-9108-4A90-8895-3E1CD2AA4339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0

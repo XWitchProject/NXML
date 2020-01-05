@@ -1,0 +1,3 @@
+[submodule "NXML.Script/libs/XTRuntime"]
+	path = NXML.Script/libs/XTRuntime
+	url = https://github.com/xwitchproject/XTRuntime
